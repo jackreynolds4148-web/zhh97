@@ -1,0 +1,562 @@
+{
+  "photography": [
+    {
+      "id": 1772612507878,
+      "title": "一刹锋芒",
+      "category": "人文",
+      "description": "充满张力的国风雕塑作品，主体为狼首人身的妖异行者",
+      "tags": [
+        "人文"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/25.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 1772612425251,
+      "title": "光伏阵列",
+      "category": "风景",
+      "description": "高原光伏电站的航拍全景图，采用上帝视角展现工业设施的宏大尺度",
+      "tags": [
+        "风光"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/26.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 1772612334440,
+      "title": "木塔藏机",
+      "category": "人文",
+      "description": "拍摄于河北正定隆兴寺的转轮藏照片，采用低角度仰拍，将视线引向大殿中央的宋代木制转轮藏",
+      "tags": [
+        "转轮藏"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/27.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 1772612253055,
+      "title": "赤轮衔月",
+      "category": "风景",
+      "description": "采用对角线构图，将摩天轮的红色钢架与新月置于画面的视觉对角",
+      "tags": [
+        "风光"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/28.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 1,
+      "title": "车辆动态",
+      "category": "商业",
+      "description": "于动静之间，见天地辽阔",
+      "tags": [
+        "车辆"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/29.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 2,
+      "title": "车辆静态",
+      "category": "商业",
+      "description": "静立成景，自带锋芒",
+      "tags": [
+        "车辆"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/30.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 3,
+      "title": "古建筑屋檐",
+      "category": "建筑",
+      "description": "飞檐如墨，写意东方",
+      "tags": [
+        "古建"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/31.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 4,
+      "title": "金匾映辉",
+      "category": "建筑",
+      "description": "一祠藏三国，两表照千秋",
+      "tags": [
+        "建筑"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/32.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 5,
+      "title": "一洞通幽",
+      "category": "风景",
+      "description": "青灰色的砖石拱券与上方的楼阁式门楼，尽显明清建筑的质朴与厚重",
+      "tags": [
+        "风光",
+        "人文"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/33.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 6,
+      "title": "梵音绕梁",
+      "category": "人文",
+      "description": "朱红立柱与青蓝彩绘的梁枋形成强烈的色彩对比，尽显明清官式建筑的华美与庄严",
+      "tags": [
+        "人文纪实"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/34.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 7,
+      "title": "星顶藏光",
+      "category": "商业",
+      "description": "高端商务车的内饰特写，采用对称式构图，将镜头对准座舱中央",
+      "tags": [
+        "商业作品",
+        "产品"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/35.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 8,
+      "title": "雪覆长街",
+      "category": "商业",
+      "description": "画面采用中心对称构图，将复古绿皮电车置于皑皑白雪的视觉中轴。深绿色的车身与纯白的雪景形成强烈的冷暖撞色，枯树列道的纵深感引导视线向前延伸。",
+      "tags": [
+        "建筑",
+        "城市"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "cover": "images/36.jpg",
+      "coverBase64": ""
+    }
+  ],
+  "video": [
+    {
+      "id": 1772610799300,
+      "title": "CIBF电池展_格力钛",
+      "category": "展会活动",
+      "description": "展会快剪",
+      "creativeStatement": "展会快剪",
+      "responsibility": "摄影 / 后期制作",
+      "tags": [
+        "展会",
+        "活动"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13613191",
+      "xpcMid": "0lYnQmo8OAVw62j1",
+      "cover": "images/22.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 1,
+      "title": "格力钛新能源乐游巴士",
+      "category": "产品宣传片",
+      "description": "\"乐游巴士\"是央视大湾区晚会的流动舞台，它穿行于城市之间，带领观众沉浸式体验湾区风貌。",
+      "creativeStatement": "以流动的舞台为核心创意，展现格力钛新能源巴士作为文化载体的独特魅力，将科技与艺术完美融合。",
+      "responsibility": "编导 / 航拍 / 后期制作",
+      "tags": [
+        "双层巴士"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611594",
+      "xpcMid": "E6WlQgy2MmkwgdJz",
+      "cover": "images/1.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 2,
+      "title": "格力钛新能源欧标公路车",
+      "category": "产品宣传片",
+      "description": "以欧标严苛标准为基石，融入东方工业美学，格力钛新能源欧标公路车专为欧洲高端商旅市场打造。整车采用空气动力学流线设计，搭载格力钛自主研发的新能源核心系统，实现零碳排放与强劲动力的完美平衡",
+      "creativeStatement": "镜头跟着大巴车穿梭在城市街道和郊区公路上。不需要复杂的故事线，就是用最直接的画面告诉观众：这辆车符合欧洲标准，跑得稳、跑得远、还环保",
+      "responsibility": "编导 / 摄影 / 后期制作",
+      "tags": [
+        "客车"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611930",
+      "xpcMid": "8pvbQYgGxXlw306X",
+      "cover": "images/2.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 3,
+      "title": "格力移动P2+核酸检测车",
+      "category": "产品宣传片",
+      "description": "格力移动P2+核酸检测车，疫情期间核酸检测的好帮手",
+      "creativeStatement": "视频以车辆静态拍摄、动态运营状态拍摄以及检测操作演示为主",
+      "responsibility": " 后期制作",
+      "tags": [
+        "特种车辆"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611940",
+      "xpcMid": "GKL87NyDeYEQojJz",
+      "cover": "images/3.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 4,
+      "title": "翅冀钢铁摆渡车",
+      "category": "产品宣传片",
+      "description": "园区摆渡车辆，广西梧州拍摄",
+      "creativeStatement": "视频以车辆静态拍摄、动态运营状态拍摄以及检测操作演示为主",
+      "responsibility": "",
+      "tags": [
+        "特种车辆"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611937",
+      "xpcMid": "36Jm4aPKmJnwyjzB",
+      "cover": "images/4.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 5,
+      "title": "储能工程宣传片",
+      "category": "产品宣传片",
+      "description": "多地储能电站的实景拍摄，以航拍为主",
+      "creativeStatement": "航拍多地储能电站",
+      "responsibility": "摄影/ 后期制作",
+      "tags": [
+        "储能"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611938",
+      "xpcMid": "0lYnQmo8mm3w62j1",
+      "cover": "images/5.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 6,
+      "title": "钛酸锂电池测试视频",
+      "category": "产品宣传片",
+      "description": "切割、针刺、雨淋等试验",
+      "creativeStatement": "分段组合式输出成品",
+      "responsibility": "后期制作",
+      "tags": [
+        "电池测试"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611936",
+      "xpcMid": "xv5YwjoOmJ1460PX",
+      "cover": "images/6.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 7,
+      "title": "北京铛铛车",
+      "category": "产品宣传片",
+      "description": "穿行于北京多个景点的北京铛铛车",
+      "creativeStatement": "视频以车辆静态拍摄、动态运营状态拍摄以及检测操作演示为主",
+      "responsibility": "编导 / 摄影 / 后期制作",
+      "tags": [
+        "客车"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611934",
+      "xpcMid": "yOBl4zxNVDY7aMg0",
+      "cover": "images/7.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 8,
+      "title": "格力钛高铁级公交车",
+      "category": "产品宣传片",
+      "description": "车辆产品宣传片",
+      "creativeStatement": "视频以车辆静态拍摄、动态运营状态拍摄以及检测操作演示为主",
+      "responsibility": "编导 / 摄影 / 后期制作",
+      "tags": [
+        "客车"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13611931",
+      "xpcMid": "yM1l43Vl1n2wod2V",
+      "cover": "images/8.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 9,
+      "title": "“一网一门一次”政务服务改革宣传片",
+      "category": "政企宣传片",
+      "description": "佛山市政数局“一网一门一次”政务服务改革宣传片",
+      "creativeStatement": "运用场景模拟与特效包装的方式进行制作",
+      "responsibility": "编导",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612372",
+      "xpcMid": "Mk6B4xNyAEl79LAP",
+      "cover": "images/9.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 10,
+      "title": "黄埔硬科技研究院宣传片",
+      "category": "政企宣传片",
+      "description": "黄埔硬科技研究院企业宣传片",
+      "creativeStatement": "实拍加特效合成",
+      "responsibility": "编导",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612677",
+      "xpcMid": "36Jm4aPKaD1wyjzB",
+      "cover": "images/10.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 11,
+      "title": "黄埔海关智能涉案财物管理系统宣传片",
+      "category": "政企宣传片",
+      "description": "数智化管理、全生命周期管控，黄埔海关智能涉案财物管理系统，以科技力量筑牢海关执法公信力",
+      "creativeStatement": "实拍场景模拟为主，辅以特效包装",
+      "responsibility": "编导",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612678",
+      "xpcMid": "MzkmwJPlAmyQxjXp",
+      "cover": "images/11.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 12,
+      "title": "智慧消防云平台宣传片",
+      "category": "政企宣传片",
+      "description": "云端赋能、全域感知，智慧消防云平台构建全天候、智能化的消防安全防控新体系",
+      "creativeStatement": "实拍场景模拟为主，辅以特效包装",
+      "responsibility": "编导 ",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612682",
+      "xpcMid": "yM1l43VlJapwod2V",
+      "cover": "images/12.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 13,
+      "title": "沙口水利枢纽站宣传片",
+      "category": "政企宣传片",
+      "description": "筑水安澜，利惠民生，沙口水利枢纽站以匠心工程守护流域安全、赋能区域发展",
+      "creativeStatement": "实拍场景模拟为主，辅以特效包装",
+      "responsibility": "",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612685",
+      "xpcMid": "3Yn57pWrBblQdDAa",
+      "cover": "images/13.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 14,
+      "title": "格力钛电池储能宣传片",
+      "category": "政企宣传片",
+      "description": "安全为本，长效赋能，格力钛电池储能，以专利金奖钛酸锂技术，守护全域能源稳定与绿色低碳发展",
+      "creativeStatement": "实拍场景模拟为主",
+      "responsibility": "编导 / 摄影 / 后期制作",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612687",
+      "xpcMid": "Mk6B4xNy1rL79LAP",
+      "cover": "images/14.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 15,
+      "title": "黄埔建设局2016-2020工作总结汇报片",
+      "category": "政企宣传片",
+      "description": "回望五年奋进路，筑就黄埔新高度 —— 黄埔建设局 2016—2020 工作总结汇报片，全景展现城市建设坚实足迹与发展成就。",
+      "creativeStatement": "素材混剪加包装",
+      "responsibility": "编导 ",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612689",
+      "xpcMid": "yoRe785l1Oowr1Dj",
+      "cover": "images/15.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 16,
+      "title": "社会综合治理云平台（网格化管理）",
+      "category": "政企宣传片",
+      "description": "数智赋能、网格聚力，社会综合治理云平台实现精细化管理、高效化处置，全面提升社会治理现代化水平。",
+      "creativeStatement": "实拍场景模拟为主，辅以特效包装",
+      "responsibility": "编导",
+      "tags": [
+        "政企"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612693",
+      "xpcMid": "XzVJwDqlpgX4D0EZ",
+      "cover": "images/16.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 17,
+      "title": "匠者心声",
+      "category": "形象宣传片",
+      "description": "斯帝罗兰产品宣传片木篇",
+      "creativeStatement": "企业形象宣传片",
+      "responsibility": "编导",
+      "tags": [
+        "形象"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612993",
+      "xpcMid": "v9GZQRr0W96QWnAR",
+      "cover": "images/17.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 18,
+      "title": "广爱无疆",
+      "category": "形象宣传片",
+      "description": "广药集团广爱无疆纪录片",
+      "creativeStatement": "深入贵州、梅州等地采景，深入探寻广药集团扶贫精神",
+      "responsibility": "编导",
+      "tags": [
+        "形象"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612996",
+      "xpcMid": "MzkmwJPlgzKQxjXp",
+      "cover": "images/18.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 19,
+      "title": "净的 净水器",
+      "category": "形象宣传片",
+      "description": "净的 净水器形象片",
+      "creativeStatement": "TVC级别片子",
+      "responsibility": "编导",
+      "tags": [
+        "形象"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612997",
+      "xpcMid": "n8D2wL3VgMX7JvPB",
+      "cover": "images/19.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 20,
+      "title": "匠心_传承",
+      "category": "形象宣传片",
+      "description": "顺德酒厂形象宣传片",
+      "creativeStatement": "打造有温度、有底蕴、有辨识度的粤酒标杆形象",
+      "responsibility": "编导 ",
+      "tags": [
+        "形象"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13613002",
+      "xpcMid": "KdRx7b05nan4b2N3",
+      "cover": "images/20.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 21,
+      "title": "中山图书馆宣传片",
+      "category": "形象宣传片",
+      "description": "广州中山图书馆形象宣传片",
+      "creativeStatement": "打造兼具文化厚重感与现代亲和力的省级图书馆形象",
+      "responsibility": "编导",
+      "tags": [
+        "形象"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13613004",
+      "xpcMid": "O5vZQVgPY9E7DEMW",
+      "cover": "images/21.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 24,
+      "title": "水墨风格AI视频",
+      "category": "AI视频",
+      "description": "企业开工视频，AI制作",
+      "creativeStatement": "文生图，首尾帧生成视频",
+      "responsibility": "编导  / 后期制作",
+      "tags": [
+        "AI"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13613209",
+      "xpcMid": "1xNm49Rbg98QEBVK",
+      "cover": "images/23.jpg",
+      "coverBase64": ""
+    },
+    {
+      "id": 26,
+      "title": "格力钛：安全篇（三万次）",
+      "category": "广告",
+      "description": "央视电视广告",
+      "creativeStatement": "通过最简洁高效的方式，呈现格力钛电池的安全性能",
+      "responsibility": "创意 / 后期制作",
+      "tags": [
+        "广告"
+      ],
+      "gradient": "linear-gradient(135deg, #667eea, #764ba2)",
+      "bvid": "",
+      "xpcAid": "13612815",
+      "xpcMid": "DA0XwZAaObo7droB",
+      "cover": "images/24.jpg",
+      "coverBase64": ""
+    }
+  ]
+}
